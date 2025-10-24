@@ -62,22 +62,5 @@ git clone https://github.com/fidanismayilzada23/global-climate-disaster-resilien
 
 Open PostgreSQL / Valentina Studio.
 
-Execute files in order:
-
-1️⃣ database_schema.sql  
-2️⃣ insert_data.sql  
-3️⃣ queries.sql
 
 
-Then refresh the materialized view:
-
-REFRESH MATERIALIZED VIEW resilience_index;
-
-🧠 Author
-
-👩‍💻 Fidan Ismayilzada (Güneş)
-🎓 Researcher in Sustainable Finance & Data Analytics
-🌍 Focus: Green Economy, Climate Resilience, Data-Driven Development
-📧 Contact: fidanismayilzada23@gmail.com
-
-⭐ If you find this project useful, give it a star on GitHub!
